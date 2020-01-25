@@ -1,4 +1,4 @@
-# Exploraing Employee Surveys
+# Exploring Employee Surveys
 
 ## Independent Project
 
